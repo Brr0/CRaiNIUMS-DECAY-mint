@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"ReeshaPC","pid":20504,"time":"2022-11-20T14:13:47.047093Z","target":"sugar","line":116,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"Failed to read keypair file: cryptCM.json, The system cannot find the file specified. (os error 2)","level":50,"hostname":"ReeshaPC","pid":20504,"time":"2022-11-20T14:13:47.0550636Z","target":"sugar_cli::setup","line":53,"file":"src\\setup.rs"}
