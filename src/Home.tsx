@@ -524,8 +524,8 @@ const Home = (props: HomeProps) => {
                       style={{ fontWeight: "bold" }}
                     >
                       {isWhitelistUser && discountPrice
-                        ? `$WLZ ${formatNumber.asNumber(discountPrice)}`
-                        : `$WLZ ${formatNumber.asNumber(
+                        ? `$DECAY ${formatNumber.asNumber(discountPrice)}`
+                        : `$DECAY ${formatNumber.asNumber(
                             candyMachine.state.price
                           )}`}
                     </Typography>
